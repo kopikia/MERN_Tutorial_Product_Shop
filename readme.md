@@ -1,7 +1,7 @@
 Credits to:
-
 https://www.youtube.com/watch?v=O3BUHwfHf84
 
+Learn to build a full-stack web application using: MongoDB, Express.js, React and Node.js (MERN Stack)
 
 Running the code in the terminal: npm run dev
 
