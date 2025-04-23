@@ -14,3 +14,7 @@ To successfully run this project, these are the steps to be taken:
 
 To upload to github as a repo:
 1) In the terminal, type: git init
+2) Commit the changes
+3) Copy the code for "push an exisiting repo from the command line" and paste into the terminal to upload
+
+Hosting the server: render.com
